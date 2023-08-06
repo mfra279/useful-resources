@@ -8,15 +8,18 @@ These are programs and services that specifically benefit students by offering f
  - **List item:** Description of item
  - **List item:** Description of item
 
+
 **Database Hosting**
  - **List item:** Description of item
  - **List item:** Description of item
  - **List item:** Description of item
 
+
 **Serverless Code Services**
  - **List item:** Description of item
  - **List item:** Description of item
  - **List item:** Description of item
+
 
 **Arduino/ESP**
 Useful resources for Arduino-compatible microcontroller projects
@@ -24,9 +27,12 @@ Useful resources for Arduino-compatible microcontroller projects
  - **List item:** Description of item
  - **List item:** Description of item
 
+
 **Physical Builds**
 Resources related to the development of physical objects
  - **List item:** Description of item
  - **List item:** Description of item
  - **List item:** Description of item
+
+
 
