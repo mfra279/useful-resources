@@ -2,6 +2,7 @@
 This is a list of tools and services I've found useful as a Creative Technologies student.
 
 **Offering Student/Education Licenses**
+
 These are programs and services that specifically benefit students by offering free premium-level licenses (usually needs verification via an academic email address, etc)
  - **List item:** Description of item
  - **List item:** Description of item
