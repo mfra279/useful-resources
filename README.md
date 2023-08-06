@@ -22,6 +22,7 @@ These are programs and services that specifically benefit students by offering f
 
 
 **[Arduino/ESP]**
+
 Resources for Arduino-compatible microcontroller projects
  - **List item:** Description of item
  - **List item:** Description of item
@@ -29,6 +30,7 @@ Resources for Arduino-compatible microcontroller projects
 
 
 **[Physical]**
+
 Resources related to the development of physical objects
  - **List item:** Description of item
  - **List item:** Description of item
